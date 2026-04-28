@@ -1,9 +1,12 @@
-const block = document.querySelector(".button")
-function increment(e){
+const block = document.querySelector(".block")
+const button = document.createElement("button")
+const increment = () => {
     if(block.e.target){
         block.textContent("Coooool")
     }
-    return count
 }
+block.
+button.onchange((e) => increment(e))
+
 
 
